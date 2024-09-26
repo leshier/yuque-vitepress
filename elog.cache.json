@@ -1,0 +1,37 @@
+{
+  "docs": [
+    {
+      "id": 188206512,
+      "doc_id": "fgb31zz38ppw557r",
+      "updated": 1727360136000,
+      "properties": {
+        "title": "大",
+        "urlname": "fgb31zz38ppw557r",
+        "date": "2024-09-26 22:15:30",
+        "updated": "2024-09-26 22:15:36",
+        "description": "大"
+      },
+      "catalog": [],
+      "realName": "大",
+      "relativePath": "/大.md",
+      "docPath": "docs/docs"
+    }
+  ],
+  "catalog": [
+    {
+      "type": "DOC",
+      "title": "大",
+      "uuid": "SkGFAIlAzirqwODZ",
+      "url": "fgb31zz38ppw557r",
+      "prev_uuid": "",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 188206512,
+      "level": 0,
+      "id": 188206512,
+      "open_window": 1,
+      "visible": 1
+    }
+  ]
+}
